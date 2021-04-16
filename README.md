@@ -1,5 +1,5 @@
 
-> Open this page at [https://oysa88.github.io/tutorial_battlebot/](https://oysa88.github.io/Battlebot_tutorial/)
+> Open this page at [https://github.com/oysa88/Battlebot_tutorial/](https://github.com/oysa88/Battlebot_tutorial/)
 
 ## Use as Extension
 
